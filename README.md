@@ -13,7 +13,7 @@ This project is a program made to assit the user in creating a README.md File.
 - [Questions](#questions)
 ## Installation
 
-At the bottom of this README file there is a link to the github repository, click the link and download a zip file for you to use and install on your computer.
+At the bottom of this README file there is a link to the github repository, click the link and download a zip file for you to use and install on your computer. The program is meant to be run in the terminal.
 
 ## Usage
 
@@ -21,7 +21,7 @@ You would open this applicattion in the terminal then, it will prompt you with v
 
 ## Credits
 
-There were no contributors to this project
+This project was created with the use of inquirer.
 
 ## License
 
@@ -32,8 +32,6 @@ You can find the license text [here](https://opensource.org/licenses/mit).
 
 ## Questions
 
-Github Account: [OdeToTheCode](https://github.com/OdeToTheCode)
+Github Account: [OdeToTheCode](https://github.com/OdeToTheCode/README-Generator)
 
-Email Address: Jacobrayfigueroa@gmail.com
 
-Don't reach out...
