@@ -82,7 +82,7 @@ inquirer.prompt(questions).then(data => {
 
   readme += `## Questions\n\nGithub Account: [${data.userName}](${data.github})\n\nEmail Address: ${data.email}\n\n${data.contact}`
 
-  fs.writeFile('READMEe.md', readme, err => {
+  fs.writeFile(`${data.name}.md`, readme, err => {
     if (err) {
       console.log(err);
     } else {
